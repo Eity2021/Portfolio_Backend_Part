@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Company portfolio",
+    "image": "https://i.ibb.co.com/PshXszP7/main-image.jpg",
+    "description": "Developed a dynamic and user-friendly company portfolio website designed to streamline business operations. This platform includes essential features such as booking and appointment scheduling, lobby management for enhanced visitor experience, payroll information for employee transparency, and a seamless purchase system for smooth transactions. Built with a focus on efficiency, usability, and modern design, the website ensures an intuitive experience for both administrators and users.",
+    "liveLink": "https://hellokompass.com/",
+    "gitLink": "",
+    "languageInfo": [
+      "HTML",
+      "Tailwind CSS",
+      "daisy UI",
+      "React js",
+      "Lazy Loader",
+      "React hooks form",
+      "React router dom",
+      "axios",
+      "yap"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "My kompass",
+    "image": "https://i.ibb.co.com/ynKTXth1/primary.png",
+    "description": "A well-designed website enhances business operations, user experience, and engagement. Key features include appointment scheduling, event management, secure authentication, payroll automation, and e-commerce integration. mobile responsiveness improves efficiency. Seamless transactions, automated reminders, and compliance tools make websites adaptable and user-friendly. A booking system supports banking, restaurants, and visitor management. Payroll management ensures accurate salary calculations and tax deductions. Secure access with two-factor authentication protects data while reporting tools provide valuable insights. These features make modern websites essential for businesses, streamlining operations and improving customer satisfaction.",
+    "liveLink": "https://my.hellokompass.com/login",
+    "gitLink": "",
+    "languageInfo": [
+      "HTML",
+      "Material UI",
+      "React js",
+      "Lazy Loader",
+      "React hooks form",
+      "React router dom",
+      "axios",
+      "yap"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hello Reception",
+    "image": "https://i.ibb.co.com/zVVFNJQp/OD15EW1.jpg",
+    "description": "This platform offers various types of receptions, including appointments, events, hotels, restaurants, and more.Once an appointment or booking is confirmed, a unique QR code is generated. Simply scan the code to check in and gain access to your meeting, event, or any other reservation.",
+    "liveLink": "https://reception.hellokompass.com/login",
+    "gitLink": "",
+    "languageInfo": [
+      "HTML",
+      "Material UI",
+      "React js",
+      "Lazy Loader",
+      "React hooks form",
+      "React router dom",
+      "axios",
+      "yap"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Breast Cancer",
+    "image": "https://i.ibb.co.com/7tyz6TVY/b125e77a-ccdf-4728-8eae-f8f146486a3b.jpg",
+    "description": "​The website myhealthrow.com provides concise information about breast cancer. It states that breast cancer is a type of cancer that develops in the breast tissue and is the most common cancer in women worldwide, although it can also affect men.​",
+    "liveLink": "https://myhealthrow.com",
+    "gitLink": "",
+    "languageInfo": [
+      "HTML",
+      "daisy UI",
+      "React js",
+      "Lazy Loader",
+      "React hooks form",
+      "React router dom",
+      "axios",
+      "yap"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Obesity (Portal)",
+    "image": "https://i.ibb.co.com/7tyz6TVY/b125e77a-ccdf-4728-8eae-f8f146486a3b.jpg",
+    "description": "​The website myhealthrow.com provides concise information about breast cancer. It states that breast cancer is a type of cancer that develops in the breast tissue and is the most common cancer in women worldwide, although it can also affect men.​",
+    "liveLink": "https://myhealthrow.com",
+    "gitLink": "",
+    "languageInfo": [
+      "HTML",
+      "daisy UI",
+      "React js",
+      "Lazy Loader",
+      "React hooks form",
+      "React router dom",
+      "axios",
+      "yap"
+    ]
+  }
+]
