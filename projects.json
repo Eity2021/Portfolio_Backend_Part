@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Company portfolio",
-    "image": "https://i.ibb.co.com/PshXszP7/main-image.jpg",
+    "image": "https://i.ibb.co.com/7dMK5gsQ/2025-10-01-03-03-59-Settings.png",
     "description": "Developed a dynamic and user-friendly company portfolio website designed to streamline business operations. This platform includes essential features such as booking and appointment scheduling, lobby management for enhanced visitor experience, payroll information for employee transparency, and a seamless purchase system for smooth transactions. Built with a focus on efficiency, usability, and modern design, the website ensures an intuitive experience for both administrators and users.",
     "liveLink": "https://hellokompass.com/",
     "gitLink": "",
@@ -21,7 +21,7 @@
   {
     "id": 2,
     "name": "My kompass",
-    "image": "https://i.ibb.co.com/ynKTXth1/primary.png",
+    "image": "https://i.ibb.co.com/JjtNK2Z9/2025-10-01-03-02-44-Settings.png",
     "description": "A well-designed website enhances business operations, user experience, and engagement. Key features include appointment scheduling, event management, secure authentication, payroll automation, and e-commerce integration. mobile responsiveness improves efficiency. Seamless transactions, automated reminders, and compliance tools make websites adaptable and user-friendly. A booking system supports banking, restaurants, and visitor management. Payroll management ensures accurate salary calculations and tax deductions. Secure access with two-factor authentication protects data while reporting tools provide valuable insights. These features make modern websites essential for businesses, streamlining operations and improving customer satisfaction.",
     "liveLink": "https://my.hellokompass.com/login",
     "gitLink": "",
@@ -76,18 +76,20 @@
     "id": 5,
     "name": "Obesity (Portal)",
     "image": "https://i.ibb.co.com/3ydSqzXg/2025-09-29-23-35-29-Settings.png",
-    "description": "​The website myhealthrow.com provides concise information about breast cancer. It states that breast cancer is a type of cancer that develops in the breast tissue and is the most common cancer in women worldwide, although it can also affect men.​",
+    "description": "Obesity is a health condition caused by excessive body fat, often due to poor diet, lack of exercise, or genetics. It raises the risk of diabetes, heart disease, and other chronic illnesses. This website helps connect users with doctors for proper guidance, while also promoting healthy habits through balanced diet, regular exercise, quality sleep, and lifestyle changes.​",
     "liveLink": "https://portal.obesitybes.com",
     "gitLink": "",
     "languageInfo": [
       "HTML",
-      "daisy UI",
+      "CSS",
+      "axios",
+      "charts",
       "React js",
       "Lazy Loader",
+      "react-lucide",
+      "Material-tailwind",
       "React hooks form",
-      "React router dom",
-      "axios",
-      "yap"
+      "React router dom"
     ]
   }
 ]
