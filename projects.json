@@ -87,6 +87,29 @@
       "React js",
       "Lazy Loader",
       "react-lucide",
+      "react-query",
+      "Material-tailwind",
+      "React hooks form",
+      "React router dom"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Obesity (User)",
+    "image": "https://i.ibb.co.com/XZwp23pp/2025-10-01-20-50-35-Movies-TV.png",
+    "description": "Obesity is a health condition caused by excess body fat, often due to poor diet, inactivity, or genetics. It increases the risk of diabetes, heart disease, and other chronic illnesses. This website connects users with doctors for guidance and encourages healthy habits through balanced nutrition, regular exercise, good sleep, and lifestyle changes.​",
+    "liveLink": "https://my.obesitybes.com9",
+
+    "gitLink": "",
+    "languageInfo": [
+      "HTML",
+      "CSS",
+      "axios",
+      "charts",
+      "React js",
+      "redux",
+      "Lazy Loader",
+      "react-lucide",
       "Material-tailwind",
       "React hooks form",
       "React router dom"
